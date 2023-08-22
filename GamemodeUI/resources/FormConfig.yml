@@ -1,0 +1,15 @@
+title: "§cGamemode§5UI"
+description: "Hello, choose your gamemode."
+
+# GameMode Creative
+button1: "Creative"
+texture1: "textures/items/stick.png"
+message1: "Gamemode Creative enabled."
+# GameMode Survival
+button2: "Survival"
+texture2: "textures/items/stick.png"
+message2: "Gamemode Survival enabled."
+# GameMode Spectator
+button3: "Spectator"
+texture3: "textures/items/stick.png"
+message3: "Gamemode Spectator enabled."

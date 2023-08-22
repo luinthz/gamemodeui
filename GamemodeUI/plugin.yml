@@ -1,0 +1,9 @@
+name : GamemodeUI
+author : LU
+version : 1.0.0
+api : [5.0.0]
+main : gamemode\lu\Main
+
+permissions:
+  gm.cmd:
+    default: op
